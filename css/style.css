@@ -339,7 +339,7 @@ body.lock {
   color: #333;
 }
 .items-lorem__button-about::after {
-  content: url("../img/Arrow 1.svg");
+  content: url("../img/Arrow1.svg");
   margin-left: 1.6875rem;
 }
 
@@ -490,11 +490,10 @@ body.lock {
   justify-content: space-between;
   gap: 1.25rem;
 }
-.about__image img {
+.about__image {
   border-radius: 30px;
   max-width: 100%;
 }
-
 .item-about {
   flex: 0 1 34.375rem;
 }
