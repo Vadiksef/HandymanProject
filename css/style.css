@@ -490,10 +490,11 @@ body.lock {
   justify-content: space-between;
   gap: 1.25rem;
 }
-.about__image {
+.about__image img {
   border-radius: 30px;
   max-width: 100%;
 }
+
 .item-about {
   flex: 0 1 34.375rem;
 }
